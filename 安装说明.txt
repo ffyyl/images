@@ -1,8 +1,0 @@
-安装说明
-1. 如果你的电脑是xp的系统, 需要先安装一下dotnetfx35.exe(windows插件)
-2. 可以不用装汉化包和模板文件
-
-
-
-【安装模板】
-	win7:C:\Users\zy\AppData\Local\Mindjet\MindManager\10\Library\ENU\Templates

@@ -1,0 +1,4 @@
+win7:C:\Users\zy\AppData\Local\Mindjet\MindManager\10\Library\ENU\Templates
+win7:C:\Users\zy\AppData\Local\Mindjet\MindManager\10\Library\ENU\Templates
+win7:C:\Users\zy\AppData\Local\Mindjet\MindManager\10\Library\ENU\Templates
+	win7:C:\Users\zy\AppData\Local\Mindjet\MindManager\10\Library\ENU\Templates
